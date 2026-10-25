@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:0B1F3A,100:004578&height=200&section=header&text=Aoushad%20Khan&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Senior%20DevSecOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20SRE&descSize=18&descAlignY=58&descColor=00E5FF&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:003366,100:005A9E&height=200&section=header&text=Aoushad%20Khan&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Senior%20DevSecOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20SRE&descSize=18&descAlignY=58&descColor=66CCFF&animation=fadeIn" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1100&color=00E5FF&center=true&vCenter=true&width=900&height=50&lines=Senior+DevSecOps+Engineer+%7C+Cloud+Architect;Microsoft+Azure+%7C+Terraform+IaC+%7C+Zero-Trust+CI%2FCD;Kubernetes+(AKS)+%7C+Docker+Ecosystem+%7C+GitOps;Full-Stack+Observability+%7C+Prometheus+%26+Grafana;Enterprise+Cloud+Migration+%7C+Zero-Downtime+IIS+%26+SQL" alt="Animated DevSecOps headline" />
@@ -10,9 +10,9 @@
 
 **Enterprise Cloud Infrastructure · Zero-Trust Security · GitOps Automation · Autonomous SRE**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-004578?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aoushad-khan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-005A9E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aoushad-khan)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aoushad?tab=repositories)
-[![Status](https://img.shields.io/badge/Status-Serving_Notice_Period-004578?style=for-the-badge&logo=opsgenie&logoColor=white)](#-connect)
+[![Status](https://img.shields.io/badge/Status-Serving_Notice_Period-005A9E?style=for-the-badge&logo=opsgenie&logoColor=white)](#-connect)
 
 </div>
 
@@ -20,13 +20,13 @@
 
 ## 👋 About Me
 
-I am a **Senior DevSecOps Engineer & Cloud Solutions Architect** with **8+ years of overall IT experience**, including **4+ years dedicated to DevOps, SRE, and Cloud Infrastructure Engineering**. I specialize in architecting production-grade Microsoft Azure environments, driving modular Infrastructure as Code (Terraform & Bicep), orchestrating container workloads on Kubernetes (AKS), and securing modern CI/CD supply chains with shift-left security practices.
+I am a **Senior DevSecOps Engineer & Cloud Solutions Architect** with **8+ years of overall IT experience**, including **4+ years dedicated to DevOps, SRE, and Cloud Infrastructure Engineering**. I specialize in architecting production-grade Microsoft Azure environments, driving modular Infrastructure as Code (Terraform & Bicep), orchestrating container workloads on Kubernetes (AKS), and securing modern CI/CD supply chains with shift-left security practices[cite: 1].
 
 My background is centered around **governing and migrating critical enterprise workloads** to the cloud with zero downtime, eliminating manual toil through PowerShell/Bash automation, maintaining 100% security compliance via SonarQube, TFSec, and TruffleHog, and delivering 99.99% infrastructure availability.
 
 * ☁️ **Cloud & Scale:** Designing enterprise Hub-and-Spoke networking, Azure Landing Zones, Availability Zones, and Kubernetes platforms (AKS).
 * 🛡️ **DevSecOps & Supply Chain:** Baking automated security gates (TFSec, TruffleHog, SonarQube) into Azure DevOps and GitHub Actions CI/CD pipelines to catch vulnerabilities and secrets pre-commit.
-* 🏗️ **Infrastructure as Code (IaC):** Standardizing modular Terraform repositories with remote state lease-locking in Azure Blob Storage, version pinning, and pre-deployment policy checks.
+* 🏗️ **Infrastructure as Code (IaC):** Standardizing modular Terraform repositories with remote state lease-locking in Azure Blob Storage, version pinning, and pre-deployment policy checks[cite: 1].
 * 💰 **FinOps & Cost Governance:** Cutting cloud OPEX through automated resource rightsizing, orphan managed disk/storage cleanup, and predictive CI/CD cost gating with Infracost.
 
 ---
