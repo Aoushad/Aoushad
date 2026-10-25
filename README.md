@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1100&color=0078D4&center=true&vCenter=true&width=900&height=50&lines=Senior+DevSecOps+Engineer+%7C+Cloud+Architect;Microsoft+Azure+%7C+Terraform+IaC+%7C+Zero-Trust+CI%2FCD;Kubernetes+(AKS)+%7C+Docker+Ecosystem+%7C+GitOps;Full-Stack+Observability+%7C+Prometheus+%26+Grafana;Enterprise+Cloud+Migration+%7C+Zero-Downtime+IIS+%26+SQL" alt="Animated DevSecOps headline" />
 </a>
 
-### 🔐 Senior DevSecOps Engineer & Cloud Architect | SRE
+### 🔐 Senior DevSecOps Engineer | SRE
 
 **Enterprise Cloud Infrastructure · Zero-Trust Security · GitOps Automation · Autonomous SRE**
 
